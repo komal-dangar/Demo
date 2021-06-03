@@ -1,4 +1,4 @@
 # Demo
 this is Demo file
-My first Github Repo..
-Internship Programm
+Intenship Programme 
+1st Repo...
